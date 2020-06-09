@@ -1,5 +1,5 @@
 {
-	"short_name" : "OBI",
+	"short_name" : "OBI.Services Portal",
 	"name" : "OBI",
 	"icons" : [
 		{
@@ -10,9 +10,11 @@
 	"background_color" : "#FFFFFF",
 	"display" : "standalone",
 	"theme_color" : "#3E76A1",
-	"url" : "https://portal.obi.services",
-	"lang" : "",
+	"url" : "https://portal.obi.services/",
+	"lang" : "English",
 	"screenshots" : [],
-	"orientation" : "",
+	"description" : "OBI IT Solutions is the most affordable and efficient Data Entry Solution for your business. Only pay for the tasks completed. Price starts at $0.06 per task.",
+	"orientation" : "any",
+	"scope" : "/",
 	"generated" : ""
 }
