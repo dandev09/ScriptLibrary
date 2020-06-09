@@ -6,7 +6,7 @@
 			"src": "https://portal.obi.services/apple-touch-icon-75.png",
 			"sizes": "75x75"
 		}],
-	"start_url" : "https://portal.obi.services/",
+	"start_url" : "https://obi.services/",
 	"background_color" : "#FFFFFF",
 	"display" : "standalone",
 	"theme_color" : "#3E76A1",
