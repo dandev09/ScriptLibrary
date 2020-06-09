@@ -1,0 +1,18 @@
+{
+	"short_name" : "OBI",
+	"name" : "OBI",
+	"icons" : [
+		{
+			"src": "https://portal.obi.services/apple-touch-icon-75.png",
+			"sizes": "75x75"
+		}],
+	"start_url" : "https://portal.obi.services/",
+	"background_color" : "#FFFFFF",
+	"display" : "standalone",
+	"theme_color" : "#3E76A1",
+	"url" : "https://portal.obi.services",
+	"lang" : "",
+	"screenshots" : [],
+	"orientation" : "",
+	"generated" : ""
+}
